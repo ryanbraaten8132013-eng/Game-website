@@ -1,0 +1,18 @@
+a{
+    color: inherit;
+}
+
+#games{
+    color: deepskyblue;
+    font-family: "Special Gothic Condensed One";
+    font-size: larger;
+}
+
+html{
+    background-color: rgb(32, 32, 43); 
+}
+
+header{
+    font-size: xx-large;
+    font-family: "Special Gothic Condensed One"
+}
